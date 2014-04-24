@@ -1,0 +1,9 @@
+[submodule "succinct"]
+	path = succinct
+	url = https://github.com/ot/succinct.git
+[submodule "FastPFor"]
+	path = FastPFor
+	url = https://github.com/lemire/FastPFor.git
+[submodule "integer_encoding_library"]
+	path = integer_encoding_library
+	url = https://github.com/maropu/integer_encoding_library
