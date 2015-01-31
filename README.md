@@ -1,6 +1,9 @@
 partitioned_elias_fano
 ======================
 
+NOTE: This repository is maintained only for historical reasons. This code is
+now part of [ds2i](https://github.com/ot/ds2i).
+
 This repository contains the code used for the experiments in the paper
 
 * Giuseppe Ottaviano and Rossano Venturini, _Partitioned Elias-Fano Indexes_,
